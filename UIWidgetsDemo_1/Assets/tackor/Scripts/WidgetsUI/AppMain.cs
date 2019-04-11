@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using Unity.UIWidgets.animation;
+﻿using System.Collections.Generic;
+using UIWidgetsSample;
 using Unity.UIWidgets.engine;
 using Unity.UIWidgets.foundation;
 using Unity.UIWidgets.material;
@@ -11,34 +9,29 @@ using Unity.UIWidgets.service;
 using Unity.UIWidgets.ui;
 using Unity.UIWidgets.widgets;
 using UnityEngine;
+using UnityEngine.Analytics;
 using Color = Unity.UIWidgets.ui.Color;
+using Icons = UIWidgetsSample.Icons;
+using TextStyle = Unity.UIWidgets.painting.TextStyle;
 using Image = Unity.UIWidgets.widgets.Image;
 
 
 namespace Tackor.App
 {
-//    public class AppMain : UIWidgetsPanel
-    public class AppMain : MaterialApp
+    public class AppMain : UIWidgetsSamplePanel
     {
-//        protected virtual PageRouteFactory pageRouteBuilder {
-//            get {
-//                return (RouteSettings settings, WidgetBuilder builder) =>
-//                    new PageRouteBuilder(
-//                        settings: settings,
-//                        pageBuilder: (BuildContext context, Animation<float> animation,
-//                            Animation<float> secondaryAnimation) => builder(context)
-//                    );
-//            }
-//        }
         
         protected override Widget createWidget()
         {
             return new WidgetsApp(
                 home: new RootPage()
+                ,
+                pageRouteBuilder: this.pageRouteBuilder
             );
         }
         
         public class RootPage : StatefulWidget
+//        public class RootPage : MaterialApp
         {
             public override State createState()
             {
@@ -53,6 +46,8 @@ namespace Tackor.App
             TextStyle tabTextStyleNormal = new TextStyle(color: new Color(0xff969696));
             TextStyle tabTextStyleSelected = new TextStyle(color: Colors.pink[300]);
             
+            private IndexedStack _body;
+            
             private List<Widget> _pages = new List<Widget>
             {
                 new CommonPage("首页", Colors.red),
@@ -62,15 +57,20 @@ namespace Tackor.App
                 new CommonPage("D", Colors.cyan)
             };
     
-            private IndexedStack _body;
-    
             public override Widget build(BuildContext context)
             {
                 _body = new IndexedStack(
-                    children: _pages.ToList()
+                    children: _pages
                 );
                 
                 return new Scaffold(
+                
+//                return new Scaffold(
+                    
+//                    body: new Container(
+//                        color: Colors.red
+//                    )
+                    
                     body: _body
                     ,
                     
@@ -86,9 +86,10 @@ namespace Tackor.App
                             }
                         )
                     ),
-                    floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
+                    floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked
+                    ,
                     
-                    //BottomNavigationBar ------------------
+//                  //BottomNavigationBar ------------------
                     bottomNavigationBar: new BottomNavigationBar(
                         items: new List<BottomNavigationBarItem>
                         {

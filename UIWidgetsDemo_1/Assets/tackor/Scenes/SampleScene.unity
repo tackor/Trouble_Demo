@@ -435,7 +435,7 @@ MonoBehaviour:
     width: 1
     height: 1
   devicePixelRatioOverride: 0
-  antiAliasingOverride: 4
+  antiAliasingOverride: 0
 --- !u!1 &2132228191
 GameObject:
   m_ObjectHideFlags: 0

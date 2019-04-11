@@ -10,32 +10,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.52575636">
+    <splitter split-orientation="horizontal" split-proportion="0.54047424">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="AppMain.cs" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/AppMain.cs">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="288">
-                  <caret line="33" selection-start-line="33" selection-end-line="33" />
-                  <folding>
-                    <marker date="1554896914893" expanded="true" signature="6:407" ph="..." />
-                    <marker date="1554896914893" expanded="true" signature="6:452" ph="..." />
-                    <marker date="1554896914893" expanded="true" signature="407:438" ph="/* using Image = Unity.UIWidgets.ui.Image; ... */" />
-                    <marker date="1554896914893" expanded="true" signature="475:5285" ph="{...}" />
-                    <marker date="1554896914893" expanded="true" signature="475:5292" ph="{...}" />
-                    <marker date="1554896914893" expanded="true" signature="560:5284" ph="{...}" />
-                    <marker date="1554896914893" expanded="true" signature="1104:1211" ph="{...}" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="Constants.cs" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/Constants.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="248">
-                  <caret line="32" column="43" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="43" />
+                <state relative-caret-position="285">
+                  <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
                   <folding>
                     <marker date="1554890410231" expanded="false" signature="6:118" ph="..." />
                     <marker date="1554890410231" expanded="true" signature="140:1639" ph="{...}" />
@@ -56,7 +38,7 @@
           <file leaf-file-name="CommonPage.cs" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/Pages/CommonPage.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="157">
+                <state relative-caret-position="165">
                   <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
                   <folding>
                     <marker date="1554889261870" expanded="false" signature="6:374" ph="..." />
@@ -71,15 +53,70 @@
               </provider>
             </entry>
           </file>
+          <file leaf-file-name="AppMain.cs" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/AppMain.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="297">
+                  <caret line="68" column="20" lean-forward="true" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+                  <folding>
+                    <marker date="1554942049900" expanded="true" signature="6:529" ph="..." />
+                    <marker date="1554942049900" expanded="true" signature="552:5203" ph="{...}" />
+                    <marker date="1554942049900" expanded="true" signature="602:5195" ph="{...}" />
+                    <marker date="1554942049900" expanded="true" signature="666:847" ph="{...}" />
+                    <marker date="1554942049900" expanded="true" signature="949:1089" ph="{...}" />
+                    <marker date="1554942049900" expanded="true" signature="1007:1079" ph="{...}" />
+                    <marker date="1554942049900" expanded="true" signature="1151:5189" ph="{...}" />
+                    <marker date="1554942049900" expanded="true" signature="1576:1843" ph="{...}" />
+                    <marker date="1554942049900" expanded="true" signature="1912:4408" ph="{...}" />
+                    <marker date="1554942049900" expanded="true" signature="2096:2266" ph="/* return new Scaffold( ... */" />
+                    <marker date="1554942049900" expanded="true" signature="2755:2889" ph="{...}" />
+                    <marker date="1554942049900" expanded="true" signature="3290:4332" ph="{...}" />
+                    <marker date="1554942049900" expanded="true" signature="4505:4787" ph="{...}" />
+                    <marker date="1554942049900" expanded="true" signature="4836:4961" ph="{...}" />
+                    <marker date="1554942049900" expanded="true" signature="5010:5166" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file leaf-file-name="DividerButton.cs" pinned="false" current-in-tab="true">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="LoginPage.cs" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Assets/Tackor_Login/LoginPage.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="975">
+                  <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
+                  <folding>
+                    <marker date="1554901510795" expanded="false" signature="6:561" ph="..." />
+                    <marker date="1554901510795" expanded="true" signature="609:14716" ph="{...}" />
+                    <marker date="1554901510795" expanded="true" signature="657:783" ph="{...}" />
+                    <marker date="1554901510795" expanded="true" signature="830:951" ph="{...}" />
+                    <marker date="1554901510795" expanded="true" signature="1000:1178" ph="{...}" />
+                    <marker date="1554901510795" expanded="true" signature="1063:1074" ph="{...}" />
+                    <marker date="1554901510795" expanded="true" signature="1120:1172" ph="{...}" />
+                    <marker date="1554901510795" expanded="true" signature="1229:14709" ph="{...}" />
+                    <marker date="1554901510795" expanded="true" signature="1331:1391" ph="{...}" />
+                    <marker date="1554901510795" expanded="true" signature="1429:1486" ph="{...}" />
+                    <marker date="1554901510795" expanded="true" signature="1541:1609" ph="{...}" />
+                    <marker date="1554901510795" expanded="true" signature="1677:14703" ph="{...}" />
+                    <marker date="1554901510795" expanded="true" signature="2473:14612" ph="{...}" />
+                    <marker date="1554901510795" expanded="true" signature="3212:5051" ph="{...}" />
+                    <marker date="1554901510795" expanded="true" signature="5644:8208" ph="{...}" />
+                    <marker date="1554901510795" expanded="true" signature="10236:14427" ph="{...}" />
+                    <marker date="1554901510795" expanded="true" signature="10765:11869" ph="{...}" />
+                    <marker date="1554901510795" expanded="true" signature="12669:14277" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DividerButton.cs" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/MaterialSample/DividerButton.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+                <state relative-caret-position="105">
+                  <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
                   <folding>
                     <marker date="1554886765766" expanded="false" signature="6:272" ph="..." />
                     <marker date="1554886765766" expanded="true" signature="300:4170" ph="{...}" />
@@ -94,6 +131,36 @@
                     <marker date="1554886765766" expanded="true" signature="2803:4007" ph="{...}" />
                     <marker date="1554886765766" expanded="true" signature="2922:3078" ph="{...}" />
                     <marker date="1554886765766" expanded="true" signature="3503:3662" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.cs" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/UIWidgetsGallery/gallery/app.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1755">
+                  <caret line="127" column="34" selection-start-line="127" selection-start-column="23" selection-end-line="127" selection-end-column="34" />
+                  <folding>
+                    <marker date="1554886765839" expanded="false" signature="6:281" ph="..." />
+                    <marker date="1554886765839" expanded="true" signature="318:5365" ph="{...}" />
+                    <marker date="1554886765839" expanded="true" signature="423:1664" ph="{...}" />
+                    <marker date="1554886765839" expanded="true" signature="813:1216" ph="{...}" />
+                    <marker date="1554886765839" expanded="true" signature="1604:1658" ph="{...}" />
+                    <marker date="1554886765839" expanded="true" signature="1713:5363" ph="{...}" />
+                    <marker date="1554886765839" expanded="true" signature="1840:2002" ph="{...}" />
+                    <marker date="1554886765839" expanded="true" signature="2045:2486" ph="{...}" />
+                    <marker date="1554886765839" expanded="true" signature="2527:2657" ph="{...}" />
+                    <marker date="1554886765839" expanded="true" signature="2721:3435" ph="{...}" />
+                    <marker date="1554886765839" expanded="true" signature="2755:3423" ph="{...}" />
+                    <marker date="1554886765839" expanded="true" signature="2832:3364" ph="{...}" />
+                    <marker date="1554886765839" expanded="true" signature="2997:3227" ph="{...}" />
+                    <marker date="1554886765839" expanded="true" signature="3488:3876" ph="{...}" />
+                    <marker date="1554886765839" expanded="true" signature="3558:3851" ph="{...}" />
+                    <marker date="1554886765839" expanded="true" signature="3937:5357" ph="{...}" />
+                    <marker date="1554886765839" expanded="true" signature="4266:4383" ph="{...}" />
+                    <marker date="1554886765839" expanded="true" signature="4513:4683" ph="{...}" />
+                    <marker date="1554886765839" expanded="true" signature="4991:5166" ph="/* checkerboardOffscreenLayers: this._options.showOffscreenLayersCheckerboard, ... */" />
                   </folding>
                 </state>
               </provider>
@@ -128,6 +195,9 @@
       <find>activeIcon</find>
       <find>_tabTextStyleSelected</find>
       <find>createWidgetcreateWidget</find>
+      <find>createState</find>
+      <find>Scaffold</find>
+      <find>_pages_pages</find>
     </findStrings>
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -135,9 +205,11 @@
     <setting file="file://$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/AppMain.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/MaterialSample/DividerButton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/Pages/CommonPage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/UIWidgets/Runtime/widgets/app.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UIWidgets/Runtime/widgets/media_query.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/UIWidgetSample/UIWidgetsSamplePanel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/UIWidgetsGallery/GalleryMain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tackor_Login/LoginPage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/UIWidgetsGallery/gallery/options.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/Constants.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -147,6 +219,7 @@
         <option value="$PROJECT_DIR$/Assets/tackor/WidgetsUI/Utils/ThemeUtils.cs" />
         <option value="$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/Pages/CommonPage.cs" />
         <option value="$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/Constants.cs" />
+        <option value="$PROJECT_DIR$/Assets/Tackor_Login/LoginPage.cs" />
         <option value="$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/AppMain.cs" />
       </list>
     </option>
@@ -158,7 +231,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="103" />
+    <option name="x" value="15" />
     <option name="y" value="23" />
     <option name="width" value="1265" />
     <option name="height" value="777" />
@@ -168,7 +241,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -187,6 +259,7 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -255,12 +328,13 @@
       <updated>1554886651110</updated>
       <workItem from="1554886662928" duration="244000" />
       <workItem from="1554886974955" duration="147000" />
-      <workItem from="1554887211513" duration="6877000" />
+      <workItem from="1554887211513" duration="9874000" />
+      <workItem from="1554901825354" duration="2101000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7268000" />
+    <option name="totallyTimeSpent" value="12366000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -272,21 +346,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="103" y="23" width="1265" height="777" extended-state="0" />
-    <editor active="true" />
+    <frame x="15" y="23" width="1265" height="777" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Key Promoter X" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49959117" weight="0.32941177" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.21913327" side_tool="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" sideWeight="0.49959117" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22976288" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49959117" weight="0.32941177" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17252657" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" order="7" />
+      <window_info anchor="bottom" id="Unity" order="7" sideWeight="0.78086674" weight="0.32941177" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -309,117 +382,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/AppMain.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <marker date="1554896914893" expanded="true" signature="6:407" ph="..." />
-            <marker date="1554896914893" expanded="true" signature="6:452" ph="..." />
-            <marker date="1554896914893" expanded="true" signature="407:438" ph="/* using Image = Unity.UIWidgets.ui.Image; ... */" />
-            <marker date="1554896914893" expanded="true" signature="475:5285" ph="{...}" />
-            <marker date="1554896914893" expanded="true" signature="475:5292" ph="{...}" />
-            <marker date="1554896914893" expanded="true" signature="560:5284" ph="{...}" />
-            <marker date="1554896914893" expanded="true" signature="1104:1211" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/tackor/WidgetsUI/Constants.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/tackor/WidgetsUI/Utils/ThemeUtils.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/UIWidgetsGallery/gallery/app.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/UIWidgetsGallery/GalleryMain.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/UIWidgetsGallery/gallery/options.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <marker date="1554886765846" expanded="false" signature="6:344" ph="..." />
-            <marker date="1554886765846" expanded="true" signature="381:19046" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="444:5132" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="835:1361" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="2143:2855" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="2906:3595" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="2954:2999" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="3046:3090" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="3645:3984" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="3691:3736" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="3781:3825" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="3875:3920" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="4028:4746" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="4052:4736" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="4830:4881" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="4965:5017" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="5061:5126" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="5175:6229" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="5383:5426" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="5526:6223" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="6272:7462" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="6381:6536" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="6766:7456" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="6959:7413" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="7504:7999" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="7566:7639" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="7782:7993" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="8041:8710" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="8155:8238" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="8386:8704" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="8749:9337" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="8788:8829" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="8928:9331" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="9378:10286" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="9477:9578" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="9759:10280" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="9931:10205" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="10337:12522" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="10446:10547" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="10728:12516" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="10846:12473" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="11070:11413" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="11720:12160" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="12216:12424" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="12571:13424" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="12677:12778" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="12959:13418" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="13113:13342" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="13468:15820" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="13570:13671" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="13849:13900" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="13961:15814" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="14079:15771" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="14303:14663" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="14964:15469" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="15523:15722" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="15876:19044" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="16124:16275" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="16497:17753" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="16549:16640" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="16853:16986" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="17235:17370" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="17814:19038" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="17910:18344" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="18457:18771" ph="{...}" />
-            <marker date="1554886765846" expanded="true" signature="18606:18684" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/Constants.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="32" column="43" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="43" />
+        <state relative-caret-position="285">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
           <folding>
             <marker date="1554890410231" expanded="false" signature="6:118" ph="..." />
             <marker date="1554890410231" expanded="true" signature="140:1639" ph="{...}" />
@@ -438,7 +404,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/Pages/CommonPage.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
+        <state relative-caret-position="165">
           <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
           <folding>
             <marker date="1554889261870" expanded="false" signature="6:374" ph="..." />
@@ -452,69 +418,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UIWidgets/Runtime/widgets/media_query.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Tackor_Login/LoginPage.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="301" column="36" selection-start-line="301" selection-start-column="22" selection-end-line="301" selection-end-column="36" />
+        <state relative-caret-position="690">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
           <folding>
-            <marker date="1554886765721" expanded="false" signature="6:105" ph="..." />
-            <marker date="1554886765721" expanded="true" signature="141:13103" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="171:214" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="277:9611" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="728:1270" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="1335:2170" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="1758:2145" ph="/* accessibleNavigation: window.accessibilityFeatures.accessibleNavigation, ... */" />
-            <marker date="1554886765721" expanded="true" signature="2675:2796" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="3258:4002" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="4208:5174" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="4285:4329" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="5383:6349" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="5460:5504" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="6400:7205" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="6448:6493" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="6541:6585" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="7255:7597" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="7301:7346" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="7392:7436" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="7487:7532" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="7641:8595" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="7665:8585" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="8679:8730" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="8814:8866" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="8910:9605" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="9659:13101" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="9817:9931" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="10242:10644" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="10958:11363" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="11494:12391" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="11668:11718" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="11744:11788" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="12461:12543" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="12611:12687" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="12764:12838" ph="{...}" />
-            <marker date="1554886765721" expanded="true" signature="12929:13095" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/UIWidgetSample/UIWidgetsSamplePanel.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <marker date="1554886765810" expanded="false" signature="6:93" ph="..." />
-            <marker date="1554886765810" expanded="true" signature="121:656" ph="{...}" />
-            <marker date="1554886765810" expanded="true" signature="177:654" ph="{...}" />
-            <marker date="1554886765810" expanded="true" signature="248:647" ph="{...}" />
-            <marker date="1554886765810" expanded="true" signature="266:637" ph="{...}" />
+            <marker date="1554901510795" expanded="false" signature="6:561" ph="..." />
+            <marker date="1554901510795" expanded="true" signature="609:14716" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="657:783" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="830:951" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="1000:1178" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="1063:1074" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="1120:1172" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="1229:14709" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="1331:1391" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="1429:1486" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="1541:1609" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="1677:14703" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="2473:14612" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="3212:5051" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="5644:8208" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="10236:14427" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="10765:11869" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="12669:14277" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/MaterialSample/DividerButton.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        <state relative-caret-position="105">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding>
             <marker date="1554886765766" expanded="false" signature="6:272" ph="..." />
             <marker date="1554886765766" expanded="true" signature="300:4170" ph="{...}" />
@@ -533,18 +467,273 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/UIWidgetsGallery/gallery/app.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="127" column="34" selection-start-line="127" selection-start-column="23" selection-end-line="127" selection-end-column="34" />
+          <folding>
+            <marker date="1554886765839" expanded="false" signature="6:281" ph="..." />
+            <marker date="1554886765839" expanded="true" signature="318:5365" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="423:1664" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="813:1216" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="1604:1658" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="1713:5363" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="1840:2002" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="2045:2486" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="2527:2657" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="2721:3435" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="2755:3423" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="2832:3364" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="2997:3227" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="3488:3876" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="3558:3851" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="3937:5357" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="4266:4383" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="4513:4683" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="4991:5166" ph="/* checkerboardOffscreenLayers: this._options.showOffscreenLayersCheckerboard, ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/UIWidgetSample/UIWidgetsSamplePanel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <marker date="1554886765810" expanded="false" signature="6:93" ph="..." />
+            <marker date="1554886765810" expanded="true" signature="121:656" ph="{...}" />
+            <marker date="1554886765810" expanded="true" signature="177:654" ph="{...}" />
+            <marker date="1554886765810" expanded="true" signature="248:647" ph="{...}" />
+            <marker date="1554886765810" expanded="true" signature="266:637" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/AppMain.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="855">
+          <caret line="57" column="13" lean-forward="true" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
           <folding>
-            <marker date="1554896914893" expanded="true" signature="6:407" ph="..." />
-            <marker date="1554896914893" expanded="true" signature="6:452" ph="..." />
-            <marker date="1554896914893" expanded="true" signature="407:438" ph="/* using Image = Unity.UIWidgets.ui.Image; ... */" />
-            <marker date="1554896914893" expanded="true" signature="475:5285" ph="{...}" />
-            <marker date="1554896914893" expanded="true" signature="475:5292" ph="{...}" />
-            <marker date="1554896914893" expanded="true" signature="560:5284" ph="{...}" />
-            <marker date="1554896914893" expanded="true" signature="1104:1211" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="6:529" ph="..." />
+            <marker date="1554942049900" expanded="true" signature="552:5203" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="602:5195" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="666:847" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="949:1089" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="1007:1079" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="1151:5189" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="1576:1843" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="1912:4408" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="2096:2266" ph="/* return new Scaffold( ... */" />
+            <marker date="1554942049900" expanded="true" signature="2755:2889" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="3290:4332" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="4505:4787" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="4836:4961" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="5010:5166" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/AppMain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <marker date="1554942049900" expanded="true" signature="6:529" ph="..." />
+            <marker date="1554942049900" expanded="true" signature="552:5203" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="602:5195" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="666:847" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="949:1089" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="1007:1079" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="1151:5189" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="1576:1843" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="1912:4408" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="2096:2266" ph="/* return new Scaffold( ... */" />
+            <marker date="1554942049900" expanded="true" signature="2755:2889" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="3290:4332" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="4505:4787" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="4836:4961" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="5010:5166" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/tackor/WidgetsUI/Constants.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/tackor/WidgetsUI/Utils/ThemeUtils.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/UIWidgetsGallery/GalleryMain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/UIWidgetsGallery/gallery/options.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/Pages/CommonPage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+          <folding>
+            <marker date="1554889261870" expanded="false" signature="6:374" ph="..." />
+            <marker date="1554889261870" expanded="true" signature="396:1451" ph="{...}" />
+            <marker date="1554889261870" expanded="true" signature="443:792" ph="{...}" />
+            <marker date="1554889261870" expanded="true" signature="574:664" ph="{...}" />
+            <marker date="1554889261870" expanded="true" signature="717:786" ph="{...}" />
+            <marker date="1554889261870" expanded="true" signature="846:1444" ph="{...}" />
+            <marker date="1554889261870" expanded="true" signature="911:1438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UIWidgets/Runtime/widgets/media_query.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="301" column="36" selection-start-line="301" selection-start-column="22" selection-end-line="301" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/UIWidgetSample/UIWidgetsSamplePanel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <marker date="1554886765810" expanded="false" signature="6:93" ph="..." />
+            <marker date="1554886765810" expanded="true" signature="121:656" ph="{...}" />
+            <marker date="1554886765810" expanded="true" signature="177:654" ph="{...}" />
+            <marker date="1554886765810" expanded="true" signature="248:647" ph="{...}" />
+            <marker date="1554886765810" expanded="true" signature="266:637" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/UIWidgetsGallery/gallery/app.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="127" column="34" selection-start-line="127" selection-start-column="23" selection-end-line="127" selection-end-column="34" />
+          <folding>
+            <marker date="1554886765839" expanded="false" signature="6:281" ph="..." />
+            <marker date="1554886765839" expanded="true" signature="318:5365" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="423:1664" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="813:1216" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="1604:1658" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="1713:5363" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="1840:2002" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="2045:2486" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="2527:2657" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="2721:3435" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="2755:3423" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="2832:3364" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="2997:3227" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="3488:3876" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="3558:3851" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="3937:5357" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="4266:4383" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="4513:4683" ph="{...}" />
+            <marker date="1554886765839" expanded="true" signature="4991:5166" ph="/* checkerboardOffscreenLayers: this._options.showOffscreenLayersCheckerboard, ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UIWidgets/Runtime/widgets/app.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/UIWidgets/Samples/MaterialSample/DividerButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <marker date="1554886765766" expanded="false" signature="6:272" ph="..." />
+            <marker date="1554886765766" expanded="true" signature="300:4170" ph="{...}" />
+            <marker date="1554886765766" expanded="true" signature="356:4168" ph="{...}" />
+            <marker date="1554886765766" expanded="true" signature="416:557" ph="{...}" />
+            <marker date="1554886765766" expanded="true" signature="613:804" ph="{...}" />
+            <marker date="1554886765766" expanded="true" signature="670:685" ph="{...}" />
+            <marker date="1554886765766" expanded="true" signature="735:794" ph="{...}" />
+            <marker date="1554886765766" expanded="true" signature="858:4162" ph="{...}" />
+            <marker date="1554886765766" expanded="true" signature="1077:4152" ph="{...}" />
+            <marker date="1554886765766" expanded="true" signature="1625:4071" ph="{...}" />
+            <marker date="1554886765766" expanded="true" signature="2803:4007" ph="{...}" />
+            <marker date="1554886765766" expanded="true" signature="2922:3078" ph="{...}" />
+            <marker date="1554886765766" expanded="true" signature="3503:3662" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/Constants.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+          <folding>
+            <marker date="1554890410231" expanded="false" signature="6:118" ph="..." />
+            <marker date="1554890410231" expanded="true" signature="140:1639" ph="{...}" />
+            <marker date="1554890410231" expanded="true" signature="172:422" ph="{...}" />
+            <marker date="1554890410231" expanded="true" signature="312:416" ph="{...}" />
+            <marker date="1554890410231" expanded="true" signature="454:1637" ph="{...}" />
+            <marker date="1554890410231" expanded="true" signature="520:573" ph="/// 主题颜色 ... " />
+            <marker date="1554890410231" expanded="true" signature="717:784" ph="///T ... " />
+            <marker date="1554890410231" expanded="true" signature="856:907" ph="{...}" />
+            <marker date="1554890410231" expanded="true" signature="926:997" ph="/// BottomTabBar 中间BarItem ... " />
+            <marker date="1554890410231" expanded="true" signature="1118:1189" ph="/// BottomTabBar 其他BarItem ... " />
+            <marker date="1554890410231" expanded="true" signature="1263:1621" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tackor_Login/LoginPage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="81" column="16" selection-start-line="81" selection-start-column="16" selection-end-line="81" selection-end-column="16" />
+          <folding>
+            <marker date="1554901510795" expanded="false" signature="6:561" ph="..." />
+            <marker date="1554901510795" expanded="true" signature="609:14716" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="657:783" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="830:951" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="1000:1178" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="1063:1074" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="1120:1172" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="1229:14709" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="1331:1391" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="1429:1486" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="1541:1609" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="1677:14703" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="2473:14612" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="3212:5051" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="5644:8208" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="10236:14427" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="10765:11869" ph="{...}" />
+            <marker date="1554901510795" expanded="true" signature="12669:14277" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/tackor/Scripts/WidgetsUI/AppMain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="68" column="20" lean-forward="true" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+          <folding>
+            <marker date="1554942049900" expanded="true" signature="6:529" ph="..." />
+            <marker date="1554942049900" expanded="true" signature="552:5203" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="602:5195" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="666:847" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="949:1089" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="1007:1079" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="1151:5189" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="1576:1843" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="1912:4408" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="2096:2266" ph="/* return new Scaffold( ... */" />
+            <marker date="1554942049900" expanded="true" signature="2755:2889" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="3290:4332" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="4505:4787" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="4836:4961" ph="{...}" />
+            <marker date="1554942049900" expanded="true" signature="5010:5166" ph="{...}" />
           </folding>
         </state>
       </provider>

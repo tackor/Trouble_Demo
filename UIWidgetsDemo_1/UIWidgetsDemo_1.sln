@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{329D9469-C991-D006-7E1F-379B4A50DCB1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.UIWidgets", "Unity.UIWidgets.csproj", "{B646D78D-2B87-8F45-6491-5AB8D5724471}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIWidgetsGallery", "UIWidgetsGallery.csproj", "{21276625-5E8D-494B-6AE4-50050EAE5C34}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIWidgetsSample", "UIWidgetsSample.csproj", "{A3EEF42B-1082-3467-60E6-E8BF47CC1690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{329D9469-C991-D006-7E1F-379B4A50DCB1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.UIWidgets.Tests", "Unity.UIWidgets.Tests.csproj", "{C7A99A9A-1707-E015-7C96-84B4ACB192CC}"
 EndProject
@@ -25,10 +25,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{329D9469-C991-D006-7E1F-379B4A50DCB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{329D9469-C991-D006-7E1F-379B4A50DCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{329D9469-C991-D006-7E1F-379B4A50DCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{329D9469-C991-D006-7E1F-379B4A50DCB1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B646D78D-2B87-8F45-6491-5AB8D5724471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B646D78D-2B87-8F45-6491-5AB8D5724471}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B646D78D-2B87-8F45-6491-5AB8D5724471}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -41,6 +37,10 @@ Global
 		{A3EEF42B-1082-3467-60E6-E8BF47CC1690}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3EEF42B-1082-3467-60E6-E8BF47CC1690}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3EEF42B-1082-3467-60E6-E8BF47CC1690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329D9469-C991-D006-7E1F-379B4A50DCB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329D9469-C991-D006-7E1F-379B4A50DCB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329D9469-C991-D006-7E1F-379B4A50DCB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329D9469-C991-D006-7E1F-379B4A50DCB1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C7A99A9A-1707-E015-7C96-84B4ACB192CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C7A99A9A-1707-E015-7C96-84B4ACB192CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7A99A9A-1707-E015-7C96-84B4ACB192CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
