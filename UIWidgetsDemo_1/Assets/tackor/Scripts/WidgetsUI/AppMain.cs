@@ -65,12 +65,6 @@ namespace Tackor.App
                 
                 return new Scaffold(
                 
-//                return new Scaffold(
-                    
-//                    body: new Container(
-//                        color: Colors.red
-//                    )
-                    
                     body: _body
                     ,
                     
