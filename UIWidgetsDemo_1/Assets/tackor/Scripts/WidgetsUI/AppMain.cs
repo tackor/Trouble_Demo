@@ -18,20 +18,17 @@ using Image = Unity.UIWidgets.widgets.Image;
 
 namespace Tackor.App
 {
-    public class AppMain : UIWidgetsSamplePanel
+    public class AppMain : UIWidgetsPanel
     {
         
         protected override Widget createWidget()
         {
-            return new WidgetsApp(
+            return new MaterialApp(
                 home: new RootPage()
-                ,
-                pageRouteBuilder: this.pageRouteBuilder
             );
         }
         
         public class RootPage : StatefulWidget
-//        public class RootPage : MaterialApp
         {
             public override State createState()
             {
@@ -60,7 +57,8 @@ namespace Tackor.App
             public override Widget build(BuildContext context)
             {
                 _body = new IndexedStack(
-                    children: _pages
+                    children: _pages,
+                    
                 );
                 
                 return new Scaffold(
@@ -83,7 +81,7 @@ namespace Tackor.App
                     floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked
                     ,
                     
-//                  //BottomNavigationBar ------------------
+                  //BottomNavigationBar ------------------
                     bottomNavigationBar: new BottomNavigationBar(
                         items: new List<BottomNavigationBarItem>
                         {
@@ -107,7 +105,8 @@ namespace Tackor.App
                                 icon: GetTabItemIcon(4),
                                 title: GetTabItemTitle(4)
                             ),
-                        }
+                        },
+                        onTap: ((index) => { setState(() => { tabIndex = index;}); })
                     )
                     
                 );

@@ -27,7 +27,7 @@ namespace Tackor.App
         
         public override State createState()
         {
-            throw new NotImplementedException();
+            return new CommonPageState();
         }
     }
 
@@ -42,6 +42,8 @@ namespace Tackor.App
                     elevation: 0,
                     
                     title: new Text(widget._title, style: new TextStyle(color: Colors.white, fontSize: 24))
+                    ,
+                    centerTitle: true
                 )
                 ,
                 
