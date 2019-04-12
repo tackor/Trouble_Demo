@@ -58,6 +58,7 @@ namespace Tackor.App
             {
                 _body = new IndexedStack(
                     children: _pages,
+                    index: tabIndex
                     
                 );
                 
@@ -124,6 +125,9 @@ namespace Tackor.App
     
             Image GetTabItemIcon(int index)
             {
+                if (index == tabIndex)
+                    return Image.asset(Constants.TabItems[index].activeIcon, width: 50, height: 50);
+
                 return Image.asset(Constants.TabItems[index].normalIcon, width: 50, height: 50);
             }
     
