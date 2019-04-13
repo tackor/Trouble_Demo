@@ -9,11 +9,18 @@
             <e p="WidgetsUI" t="Include">
               <e p="AppMain.cs" t="Include" />
               <e p="Constants.cs" t="Include" />
+              <e p="Models" t="Include">
+                <e p="HomeItemModel.cs" t="Include" />
+              </e>
               <e p="Pages" t="Include">
                 <e p="CommonPage.cs" t="Include" />
+                <e p="HomePage.cs" t="Include" />
               </e>
               <e p="Utils" t="Include">
                 <e p="ThemeUtils.cs" t="Include" />
+              </e>
+              <e p="widgets" t="Include">
+                <e p="HomeItemView.cs" t="Include" />
               </e>
             </e>
           </e>
@@ -572,6 +579,6 @@
       <e p="Unity.UIWidgets.Editor.Tests.csproj" t="IncludeRecursive" />
       <e p="Unity.UIWidgets.Tests.csproj" t="IncludeRecursive" />
     </e>
-    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_UIWidgetsDemo_1.-44560453.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_UIWidgetsDemo_1.-47297186.00" t="ExcludeRecursive" />
   </component>
 </project>

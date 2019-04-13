@@ -20,7 +20,6 @@ namespace Tackor.App
 {
     public class AppMain : UIWidgetsPanel
     {
-        
         protected override Widget createWidget()
         {
             return new MaterialApp(
@@ -47,7 +46,7 @@ namespace Tackor.App
             
             private List<Widget> _pages = new List<Widget>
             {
-                new CommonPage("首页", Colors.red),
+                new HomePage(),
                 new CommonPage("A", Colors.blue),
                 new CommonPage("B", Colors.green),
                 new CommonPage("C", Colors.orange),
@@ -68,9 +67,11 @@ namespace Tackor.App
                     ,
                     
                     floatingActionButton: new Container(
-                        width: tabIndex == 2 ? 75 : 50,
-                        height: tabIndex == 2 ? 75 : 50,
-                        margin: EdgeInsets.only(top: tabIndex == 2 ? 25 : 50),
+                        color: Colors.blue,
+                        width: tabIndex == 2 ? 80 : 60,
+                        height: tabIndex == 2 ? 80 : 60,
+//                        margin: EdgeInsets.only(top: tabIndex == 2 ? 25 : 50),
+                        margin: EdgeInsets.only(top: tabIndex == 2 ? 45 : 70),
                         child: new IconButton (
                             icon: GetCenterIcon(),
                             onPressed: () =>
@@ -83,7 +84,9 @@ namespace Tackor.App
                     ,
                     
                   //BottomNavigationBar ------------------
+//                    bottomNavigationBar: new BottomNavigationBar_Capertino(
                     bottomNavigationBar: new BottomNavigationBar(
+                        type: BottomNavigationBarType.fix,
                         items: new List<BottomNavigationBarItem>
                         {
                             new BottomNavigationBarItem(
@@ -118,17 +121,32 @@ namespace Tackor.App
             Image GetCenterIcon()
             {
                 if (centIndex == tabIndex)
-                    return Image.asset(Constants.CenterTabItem.activeIcon, width: 80, height: 80);
+                    return Image.asset(Constants.CenterTabItem.activeIcon);
                 
-                return Image.asset(Constants.CenterTabItem.normalIcon, width: 50, height: 50);
+                return Image.asset(Constants.CenterTabItem.normalIcon);
             }
     
-            Image GetTabItemIcon(int index)
+            Widget GetTabItemIcon(int index)
             {
                 if (index == tabIndex)
-                    return Image.asset(Constants.TabItems[index].activeIcon, width: 50, height: 50);
-
-                return Image.asset(Constants.TabItems[index].normalIcon, width: 50, height: 50);
+                {
+                    return new Container(
+                        color: Colors.lightBlue,
+                        child: new Padding(
+                            padding: EdgeInsets.only(bottom: 5),
+                            child: Image.asset(Constants.TabItems[index].activeIcon)
+                        )
+                    );
+                }
+                
+                
+                return new Container(
+                    color: Colors.green,
+                    child: new Padding(
+                        padding: EdgeInsets.only(bottom: 5),
+                        child: Image.asset(Constants.TabItems[index].normalIcon)
+                    )
+                );
             }
     
             Text GetTabItemTitle(int index)

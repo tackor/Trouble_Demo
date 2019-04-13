@@ -37,7 +37,7 @@ namespace Tackor.App
         {
             return new Scaffold(
                 appBar: new AppBar (
-                    backgroundColor: widget._bgColor,
+                    backgroundColor: Colors.black26,
                     brightness: Brightness.light,
                     elevation: 0,
                     
